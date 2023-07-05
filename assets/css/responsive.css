@@ -11,6 +11,12 @@
         text-transform: uppercase;
         padding: 14px 50px;
     }
+    .about-bg-1 img {
+        display: none;
+    }
+    .about-bg-2 img {
+        display: none;
+    }
     
 }
 @media (min-width: 320px) and (max-width: 768px) {
