@@ -3,7 +3,18 @@
 
 
 }
+@media (min-width: 300px) and (max-width: 387px) {
+    .btn-gray {
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 26px;
+        text-transform: uppercase;
+        padding: 14px 50px;
+    }
+    
+}
 @media (min-width: 320px) and (max-width: 768px) {
+
     #footer-btm .text-end {
         margin-right: 310px;
         padding: 0;
